@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
  
-    Name: Defender-MPLog-Review.ps1
+    Name: CheckDefenderMPLog.ps1
     This PowerShell script filters lines from a MP log file to keep only those with percentages greater than 70%, extracts the path and percentage, deduplicates the paths, and writes the results to an output file.
  
     This script performs the following:
