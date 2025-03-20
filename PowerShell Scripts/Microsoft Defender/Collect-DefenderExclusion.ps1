@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
  
-    Name: Collect-Defender-Exclusions.ps1
+    Name: Collect-DefenderExclusions.ps1
     This script will remotely collect Defender exclusion information from a target host.
  
 .DESCRIPTION
